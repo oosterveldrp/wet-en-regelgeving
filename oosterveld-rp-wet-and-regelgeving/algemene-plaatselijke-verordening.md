@@ -506,17 +506,3 @@ Onderstaande regels gelden alleen voor het eiland.
 * Wanneer je wakker wordt op de begraafplaats, vergeet je alles wat daarvoor gebeurde.
 * Verboden om OOC te praten
 * Je kan alleen contact geld stelen
-* Vervul je een overheidsbaan en wordt je in-game gepakt door een agent of stafflid, wordt je per direct ontslagen en wordt er gekeken naar een ban.
-* Gebruik /report voor het rapporteren van mensen
-* Niet ADVERTEREN met je eigen server/discord.
-* Gebruik Twitter voor je berichten, dit is voor de RP.
-* Je mag geen Job voertuigen gebruiken voor criminele activiteiten.
-* Je mag niet met een voertuig een gebouw inrijden, mits anders staat aangegeven.
-* De AFK kick omzeilen, is verboden.
-* Je mag 24 uur na een moord niet deelnemen aan wraakacties indien je bij een gang zit.
-* Het is verboden een ambulancier of anwb'er te vermoorden of te ontvoeren bij het gebruik van hun porto of noodknop.
-* Het is verboden om sleutel woorden te gebruiken op twitter.
-
-## Bijlage
-
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Oosterveld”, opgetekend door Diego Fluxy & Beau Huisbaas
